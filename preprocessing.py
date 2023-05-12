@@ -7,4 +7,8 @@ def somme(x):
 
 #Part 1
 
+def multiplication(x):
+    return x[0] * x[-1]
+    
+
 #Part 2
