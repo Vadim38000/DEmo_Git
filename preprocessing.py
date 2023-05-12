@@ -7,7 +7,14 @@ def somme(x):
 
 #Part 1
 
-#Part 2
-
 def soustraction(x):
     return x[0] - x[-1]
+
+#Part 2
+
+=======
+def multiplication(x):
+    return x[0] * x[-1]
+    
+
+
